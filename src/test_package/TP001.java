@@ -5,5 +5,6 @@ public class TP001 {
         //testing our program
         //more testing
         //negative testing
+        //positive testing
     }
 }
