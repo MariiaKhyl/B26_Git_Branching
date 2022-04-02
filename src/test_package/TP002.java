@@ -4,4 +4,5 @@ public class TP002 {
     // What is going on :)
 
     // writing smoke test ...
+    // screanshot in failure
 }
